@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xyfyuna.github.io/sitemap.xml
